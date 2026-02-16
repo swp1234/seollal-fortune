@@ -1,0 +1,125 @@
+{
+  "app": {
+    "title": "Ramalan Tahun Baru Imlek",
+    "loading": "Menyiapkan ramalan Anda...",
+    "skipLink": "Langsung ke konten utama"
+  },
+  "meta": {
+    "description": "Ramalan Tahun Baru Imlek - Temukan ramalan 2026 berdasarkan shio Anda!",
+    "keywords": "ramalan imlek, shio, horoskop 2026, ramalan zodiak cina",
+    "og_title": "Ramalan Tahun Baru Imlek | Shio 2026",
+    "og_description": "Temukan ramalan 2026 berdasarkan shio. Keuangan, Kesehatan, Cinta, dan Karier!"
+  },
+  "intro": {
+    "title": "Ramalan Tahun Baru Imlek",
+    "subtitle": "Ramalan Tahun Kuda 2026",
+    "description": "Pilih tahun kelahiran Anda dan temukan ramalan tahun baru! Tarik empat kartu untuk mengungkap nasib Anda di bidang Keuangan, Kesehatan, Cinta, dan Karier.",
+    "selectYear": "Pilih tahun kelahiran Anda"
+  },
+  "button": {
+    "start": "Mulai Ramalan!",
+    "back": "Mulai Ulang",
+    "retry": "Coba Lagi",
+    "revealAll": "Buka Semua",
+    "share_download": "Simpan Gambar",
+    "share_twitter": "X (Twitter)",
+    "share_facebook": "Facebook",
+    "share_copy": "Salin Tautan"
+  },
+  "drawing": {
+    "title": "Tarik Kartu Anda",
+    "instruction": "Ketuk setiap kartu untuk melihat ramalan Anda"
+  },
+  "fortune": {
+    "wealth": "Keuangan",
+    "health": "Kesehatan",
+    "love": "Cinta",
+    "career": "Karier"
+  },
+  "level": {
+    "great": "Luar Biasa",
+    "good": "Baik",
+    "normal": "Biasa",
+    "caution": "Waspada",
+    "bad": "Buruk"
+  },
+  "zodiac": {
+    "rat": "Tikus",
+    "ox": "Kerbau",
+    "tiger": "Harimau",
+    "rabbit": "Kelinci",
+    "dragon": "Naga",
+    "snake": "Ular",
+    "horse": "Kuda",
+    "sheep": "Kambing",
+    "monkey": "Monyet",
+    "rooster": "Ayam",
+    "dog": "Anjing",
+    "pig": "Babi"
+  },
+  "result": {
+    "title": "Hasil Ramalan",
+    "luckyColor": "Warna Keberuntungan",
+    "luckyNumber": "Angka Keberuntungan",
+    "compatible": "Shio Cocok"
+  },
+  "color": {
+    "rat": "Biru",
+    "ox": "Hijau",
+    "tiger": "Oranye",
+    "rabbit": "Merah Muda",
+    "dragon": "Emas",
+    "snake": "Ungu",
+    "horse": "Merah",
+    "sheep": "Biru Langit",
+    "monkey": "Kuning",
+    "rooster": "Putih",
+    "dog": "Cokelat",
+    "pig": "Hijau Muda"
+  },
+  "overall": {
+    "excellent": "Tahun ini akan menjadi tahun terbaik dalam segala hal! Majulah dengan percaya diri.",
+    "good": "Tahun yang menyenangkan menanti Anda. Teruslah bekerja keras dan hasil baik akan mengikuti.",
+    "average": "Tahun yang stabil dan tenang. Tetap setia pada dasar-dasar dan hal baik akan datang.",
+    "below": "Mungkin ada tantangan, tetapi dengan kebijaksanaan dan kesabaran, Anda bisa mengatasinya."
+  },
+  "fortune_msg": {
+    "wealth": {
+      "great": "Gelombang keberuntungan finansial menghampiri Anda! Investasi dan usaha akan diberkati.",
+      "good": "Pendapatan stabil mengalir. Waktu yang tepat untuk menabung dan membangun kekayaan.",
+      "normal": "Keuangan tetap stabil tanpa perubahan besar. Pertahankan jalur Anda saat ini.",
+      "caution": "Pengeluaran tak terduga mungkin muncul. Siapkan dana darurat.",
+      "bad": "Berhati-hatilah dengan keuangan. Istirahat dari investasi berisiko."
+    },
+    "health": {
+      "great": "Kesehatan yang penuh vitalitas dan energi tak terbatas! Waktu sempurna untuk memulai olahraga baru.",
+      "good": "Kesehatan Anda tetap kuat secara keseluruhan. Pertahankan kebiasaan baik Anda.",
+      "normal": "Kesehatan baik-baik saja selama tidak berlebihan. Jaga perawatan dasar.",
+      "caution": "Waspadai kelelahan dan stres. Utamakan istirahat dan relaksasi.",
+      "bad": "Kesehatan butuh perhatian! Jadwalkan pemeriksaan rutin dan dengarkan tubuh Anda."
+    },
+    "love": {
+      "great": "Pertemuan yang ditakdirkan menanti! Cinta akan mekar indah dalam hidup Anda.",
+      "good": "Romansa hangat dan stabil berlanjut. Momen kebahagiaan kecil memenuhi hari Anda.",
+      "normal": "Kehidupan cinta tetap tenang dan damai. Biarkan segalanya berjalan alami.",
+      "caution": "Kesalahpahaman mungkin muncul. Komunikasi terbuka dan jujur adalah kuncinya.",
+      "bad": "Tantangan romantis mungkin menguji Anda. Kesabaran dan pengertian sangat dibutuhkan."
+    },
+    "career": {
+      "great": "Peluang luar biasa untuk kemajuan akan datang! Promosi dan posisi baru menanti.",
+      "good": "Kerja keras Anda membuahkan hasil. Pengakuan dari atasan sangat mungkin.",
+      "normal": "Tahun yang stabil di tempat kerja. Fokus pada pengembangan keterampilan.",
+      "caution": "Jaga hubungan di tempat kerja. Hindari konflik yang tidak perlu.",
+      "bad": "Tantangan di tempat kerja diperkirakan. Tetap sabar dan tangguh."
+    }
+  },
+  "share": {
+    "title": "Bagikan Ramalan Anda",
+    "twitterText": "Saya baru saja menarik ramalan Tahun Baru Imlek 2026! {{zodiac}} Cek milikmu juga!",
+    "copyText": "Salin Tautan",
+    "copySuccess": "Tautan berhasil disalin!"
+  },
+  "footer": {
+    "moreApps": "Jelajahi Lebih Banyak Aplikasi"
+  }
+}

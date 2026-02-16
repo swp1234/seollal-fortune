@@ -1,0 +1,125 @@
+{
+  "app": {
+    "title": "Mondneujahr-Orakel",
+    "loading": "Dein Orakel wird vorbereitet...",
+    "skipLink": "Zum Hauptinhalt springen"
+  },
+  "meta": {
+    "description": "Mondneujahr-Orakel - Entdecke dein Horoskop 2026 basierend auf deinem chinesischen Tierkreiszeichen!",
+    "keywords": "Mondneujahr Orakel, chinesisches Horoskop, 2026 Horoskop, Tierkreiszeichen",
+    "og_title": "Mondneujahr-Orakel | 2026 Tierkreiszeichen",
+    "og_description": "Entdecke dein 2026 Horoskop. Reichtum, Gesundheit, Liebe und Karriere!"
+  },
+  "intro": {
+    "title": "Mondneujahr-Orakel",
+    "subtitle": "2026 Jahr des Pferdes",
+    "description": "Wähle dein Geburtsjahr und entdecke dein Horoskop für das neue Jahr! Ziehe vier Karten, um dein Schicksal in Reichtum, Gesundheit, Liebe und Karriere zu enthüllen.",
+    "selectYear": "Wähle dein Geburtsjahr"
+  },
+  "button": {
+    "start": "Orakel starten!",
+    "back": "Zurück zum Anfang",
+    "retry": "Nochmal versuchen",
+    "revealAll": "Alle aufdecken",
+    "share_download": "Bild speichern",
+    "share_twitter": "X (Twitter)",
+    "share_facebook": "Facebook",
+    "share_copy": "Link kopieren"
+  },
+  "drawing": {
+    "title": "Ziehe deine Karten",
+    "instruction": "Tippe auf jede Karte, um dein Orakel zu sehen"
+  },
+  "fortune": {
+    "wealth": "Reichtum",
+    "health": "Gesundheit",
+    "love": "Liebe",
+    "career": "Karriere"
+  },
+  "level": {
+    "great": "Ausgezeichnet",
+    "good": "Gut",
+    "normal": "Mittel",
+    "caution": "Vorsicht",
+    "bad": "Schlecht"
+  },
+  "zodiac": {
+    "rat": "Ratte",
+    "ox": "Ochse",
+    "tiger": "Tiger",
+    "rabbit": "Hase",
+    "dragon": "Drache",
+    "snake": "Schlange",
+    "horse": "Pferd",
+    "sheep": "Schaf",
+    "monkey": "Affe",
+    "rooster": "Hahn",
+    "dog": "Hund",
+    "pig": "Schwein"
+  },
+  "result": {
+    "title": "Dein Orakel",
+    "luckyColor": "Glücksfarbe",
+    "luckyNumber": "Glückszahlen",
+    "compatible": "Kompatible Zeichen"
+  },
+  "color": {
+    "rat": "Blau",
+    "ox": "Grün",
+    "tiger": "Orange",
+    "rabbit": "Rosa",
+    "dragon": "Gold",
+    "snake": "Lila",
+    "horse": "Rot",
+    "sheep": "Himmelblau",
+    "monkey": "Gelb",
+    "rooster": "Weiß",
+    "dog": "Braun",
+    "pig": "Limette"
+  },
+  "overall": {
+    "excellent": "Dieses Jahr wird in jeder Hinsicht außergewöhnlich! Geh selbstbewusst voran und nimm neue Herausforderungen an.",
+    "good": "Ein gutes Jahr erwartet dich. Arbeite stetig weiter und gute Ergebnisse werden folgen.",
+    "average": "Ein stabiles und ruhiges Jahr. Bleib den Grundlagen treu und gute Dinge werden kommen.",
+    "below": "Es mag Herausforderungen geben, aber mit Weisheit und Geduld kannst du sie alle meistern."
+  },
+  "fortune_msg": {
+    "wealth": {
+      "great": "Eine Welle finanziellen Glücks kommt auf dich zu! Investitionen und Unternehmungen werden gesegnet sein.",
+      "good": "Stetiges Einkommen fließt zu dir. Hervorragende Zeit zum Sparen und Vermögensaufbau.",
+      "normal": "Finanzen bleiben stabil ohne große Veränderungen. Halte deinen aktuellen Kurs.",
+      "caution": "Unerwartete Ausgaben könnten auftreten. Halte einen Notfallfonds bereit.",
+      "bad": "Sei vorsichtig mit Finanzen. Mach eine Pause von riskanten Investitionen."
+    },
+    "health": {
+      "great": "Lebendige Gesundheit und grenzenlose Energie! Perfekte Zeit für ein neues Fitnessprogramm.",
+      "good": "Deine Gesundheit bleibt insgesamt stark. Behalte deine guten Gewohnheiten bei.",
+      "normal": "Gesundheit ist in Ordnung, solange du es nicht übertreibst. Grundlegende Selbstpflege beibehalten.",
+      "caution": "Achte auf Überarbeitung und Stress. Priorisiere Ruhe und Entspannung.",
+      "bad": "Gesundheit braucht Aufmerksamkeit! Plane regelmäßige Untersuchungen und höre auf deinen Körper."
+    },
+    "love": {
+      "great": "Eine schicksalhafte Begegnung erwartet dich! Die Liebe wird in deinem Leben erblühen.",
+      "good": "Warme und stabile Romantik geht weiter. Kleine Glücksmomente füllen deine Tage.",
+      "normal": "Das Liebesleben bleibt ruhig und friedlich. Lass die Dinge natürlich laufen.",
+      "caution": "Missverständnisse könnten auftreten. Offene und ehrliche Kommunikation ist der Schlüssel.",
+      "bad": "Romantische Herausforderungen könnten dich testen. Geduld und Verständnis sind jetzt nötig."
+    },
+    "career": {
+      "great": "Unglaubliche Aufstiegsmöglichkeiten kommen! Beförderungen und neue Positionen warten.",
+      "good": "Deine harte Arbeit zahlt sich aus. Anerkennung von Vorgesetzten ist wahrscheinlich.",
+      "normal": "Ein stabiles Jahr bei der Arbeit. Konzentriere dich auf Kompetenzentwicklung.",
+      "caution": "Achte auf Beziehungen am Arbeitsplatz. Vermeide unnötige Konflikte mit Kollegen.",
+      "bad": "Herausforderungen am Arbeitsplatz werden erwartet. Bleib geduldig und widerstandsfähig."
+    }
+  },
+  "share": {
+    "title": "Teile dein Orakel",
+    "twitterText": "Ich habe gerade mein 2026 Mondneujahr-Orakel gezogen! {{zodiac}} Schau dir deines an!",
+    "copyText": "Link kopieren",
+    "copySuccess": "Link kopiert!"
+  },
+  "footer": {
+    "moreApps": "Mehr Apps entdecken"
+  }
+}

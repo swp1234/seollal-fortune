@@ -1,0 +1,125 @@
+{
+  "app": {
+    "title": "Ay Yeni Yil Falı",
+    "loading": "Falınız hazırlanıyor...",
+    "skipLink": "Ana içeriğe geç"
+  },
+  "meta": {
+    "description": "Ay Yeni Yıl Falı - Çin burcunuza göre 2026 falınızı keşfedin!",
+    "keywords": "ay yeni yıl falı, çin burçları, 2026 burç yorumu, fal",
+    "og_title": "Ay Yeni Yıl Falı | 2026 Burç Yorumu",
+    "og_description": "Çin burcunuza göre 2026 falınızı öğrenin. Servet, Sağlık, Aşk ve Kariyer!"
+  },
+  "intro": {
+    "title": "Ay Yeni Yıl Falı",
+    "subtitle": "2026 At Yılı Falı",
+    "description": "Doğum yılınızı seçin ve yeni yıl falınızı keşfedin! Servet, Sağlık, Aşk ve Kariyer alanlarında kaderinizi ortaya çıkarmak için dört kart çekin.",
+    "selectYear": "Doğum yılınızı seçin"
+  },
+  "button": {
+    "start": "Falımı Çek!",
+    "back": "Başa Dön",
+    "retry": "Tekrar Dene",
+    "revealAll": "Hepsini Göster",
+    "share_download": "Resmi Kaydet",
+    "share_twitter": "X (Twitter)",
+    "share_facebook": "Facebook",
+    "share_copy": "Bağlantıyı Kopyala"
+  },
+  "drawing": {
+    "title": "Kartlarınızı Çekin",
+    "instruction": "Falınızı görmek için her karta dokunun"
+  },
+  "fortune": {
+    "wealth": "Servet",
+    "health": "Sağlık",
+    "love": "Aşk",
+    "career": "Kariyer"
+  },
+  "level": {
+    "great": "Mükemmel",
+    "good": "İyi",
+    "normal": "Normal",
+    "caution": "Dikkat",
+    "bad": "Kötü"
+  },
+  "zodiac": {
+    "rat": "Fare",
+    "ox": "Öküz",
+    "tiger": "Kaplan",
+    "rabbit": "Tavşan",
+    "dragon": "Ejderha",
+    "snake": "Yılan",
+    "horse": "At",
+    "sheep": "Koyun",
+    "monkey": "Maymun",
+    "rooster": "Horoz",
+    "dog": "Köpek",
+    "pig": "Domuz"
+  },
+  "result": {
+    "title": "Fal Sonucu",
+    "luckyColor": "Şanslı Renk",
+    "luckyNumber": "Şanslı Sayılar",
+    "compatible": "Uyumlu Burçlar"
+  },
+  "color": {
+    "rat": "Mavi",
+    "ox": "Yeşil",
+    "tiger": "Turuncu",
+    "rabbit": "Pembe",
+    "dragon": "Altın",
+    "snake": "Mor",
+    "horse": "Kırmızı",
+    "sheep": "Gök Mavisi",
+    "monkey": "Sarı",
+    "rooster": "Beyaz",
+    "dog": "Kahverengi",
+    "pig": "Limon Yeşili"
+  },
+  "overall": {
+    "excellent": "Bu yıl her açıdan olağanüstü olacak! Güvenle ilerleyin ve yeni zorlukları kucaklayın.",
+    "good": "Olumlu bir yıl sizi bekliyor. Kararlılıkla çalışmaya devam edin, iyi sonuçlar gelecek.",
+    "average": "İstikrarlı ve sakin bir yıl. Temellere sadık kalın ve güzel şeyler gelecektir.",
+    "below": "Zorluklar olabilir, ancak bilgelik ve sabırla hepsinin üstesinden gelebilirsiniz."
+  },
+  "fortune_msg": {
+    "wealth": {
+      "great": "Finansal şans dalgası geliyor! Yatırımlar ve girişimler şanslı olacak.",
+      "good": "İstikrarlı gelir akışı. Birikim yapmak ve servet inşa etmek için mükemmel zaman.",
+      "normal": "Finanslar büyük değişiklikler olmadan istikrarlı. Mevcut rotanızı koruyun.",
+      "caution": "Beklenmedik harcamalar ortaya çıkabilir. Acil durum fonunuzu hazır tutun.",
+      "bad": "Finanslarda dikkatli olun. Riskli yatırımlardan bir süre uzak durun."
+    },
+    "health": {
+      "great": "Canlı sağlık ve sınırsız enerji! Yeni bir fitness rutini başlatmak için mükemmel zaman.",
+      "good": "Sağlığınız genel olarak güçlü. İyi alışkanlıklarınızı sürdürün.",
+      "normal": "Aşırıya kaçmazsanız sağlık iyi durumda. Temel bakımı sürdürün.",
+      "caution": "Aşırı çalışma ve strese dikkat edin. Dinlenmeyi öncelik haline getirin.",
+      "bad": "Sağlık ilgiye ihtiyaç duyuyor! Düzenli kontrollere gidin ve bedeninizi dinleyin."
+    },
+    "love": {
+      "great": "Kader buluşması sizi bekliyor! Aşk hayatınızda güzel şeyler açacak.",
+      "good": "Sıcak ve istikrarlı romantizm devam ediyor. Küçük mutluluk anları günlerinizi dolduruyor.",
+      "normal": "Aşk hayatı sakin ve huzurlu. İşlerin doğal akışına bırakın.",
+      "caution": "Yanlış anlamalar ortaya çıkabilir. Açık ve dürüst iletişim anahtardır.",
+      "bad": "Romantik zorluklar sizi sınayabilir. Sabır ve anlayış gerekiyor."
+    },
+    "career": {
+      "great": "Terfi ve yeni pozisyonlar için inanılmaz fırsatlar geliyor!",
+      "good": "Sıkı çalışmanız karşılığını veriyor. Üstlerden takdir almak muhtemel.",
+      "normal": "İş yerinde istikrarlı bir yıl. Beceri geliştirmeye odaklanın.",
+      "caution": "İş yerindeki ilişkilere dikkat edin. Gereksiz çatışmalardan kaçının.",
+      "bad": "İş yerinde zorluklar bekleniyor. Sabırlı ve dirençli olun."
+    }
+  },
+  "share": {
+    "title": "Falınızı Paylaşın",
+    "twitterText": "2026 Ay Yeni Yıl falımı çektim! {{zodiac}} Seninkini de gör!",
+    "copyText": "Bağlantıyı Kopyala",
+    "copySuccess": "Bağlantı kopyalandı!"
+  },
+  "footer": {
+    "moreApps": "Daha Fazla Uygulama Keşfet"
+  }
+}

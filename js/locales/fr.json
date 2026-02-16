@@ -1,0 +1,125 @@
+{
+  "app": {
+    "title": "Oracle du Nouvel An Lunaire",
+    "loading": "Préparation de votre oracle...",
+    "skipLink": "Aller au contenu principal"
+  },
+  "meta": {
+    "description": "Oracle du Nouvel An Lunaire - Découvrez votre fortune 2026 selon votre signe du zodiaque chinois !",
+    "keywords": "oracle nouvel an lunaire, zodiaque chinois, horoscope 2026, voyance",
+    "og_title": "Oracle du Nouvel An Lunaire | Zodiaque 2026",
+    "og_description": "Découvrez votre fortune 2026 selon le zodiaque chinois. Richesse, Santé, Amour et Carrière !"
+  },
+  "intro": {
+    "title": "Oracle du Nouvel An Lunaire",
+    "subtitle": "Fortune de l'Année du Cheval 2026",
+    "description": "Sélectionnez votre année de naissance et découvrez votre fortune ! Tirez quatre cartes pour révéler votre destin en Richesse, Santé, Amour et Carrière.",
+    "selectYear": "Sélectionnez votre année de naissance"
+  },
+  "button": {
+    "start": "Tirer mon oracle !",
+    "back": "Recommencer",
+    "retry": "Réessayer",
+    "revealAll": "Tout révéler",
+    "share_download": "Sauvegarder l'image",
+    "share_twitter": "X (Twitter)",
+    "share_facebook": "Facebook",
+    "share_copy": "Copier le lien"
+  },
+  "drawing": {
+    "title": "Tirez vos cartes",
+    "instruction": "Touchez chaque carte pour révéler votre fortune"
+  },
+  "fortune": {
+    "wealth": "Richesse",
+    "health": "Santé",
+    "love": "Amour",
+    "career": "Carrière"
+  },
+  "level": {
+    "great": "Excellent",
+    "good": "Bon",
+    "normal": "Moyen",
+    "caution": "Prudence",
+    "bad": "Mauvais"
+  },
+  "zodiac": {
+    "rat": "Rat",
+    "ox": "Boeuf",
+    "tiger": "Tigre",
+    "rabbit": "Lapin",
+    "dragon": "Dragon",
+    "snake": "Serpent",
+    "horse": "Cheval",
+    "sheep": "Mouton",
+    "monkey": "Singe",
+    "rooster": "Coq",
+    "dog": "Chien",
+    "pig": "Cochon"
+  },
+  "result": {
+    "title": "Votre Oracle",
+    "luckyColor": "Couleur porte-bonheur",
+    "luckyNumber": "Chiffres porte-bonheur",
+    "compatible": "Signes compatibles"
+  },
+  "color": {
+    "rat": "Bleu",
+    "ox": "Vert",
+    "tiger": "Orange",
+    "rabbit": "Rose",
+    "dragon": "Or",
+    "snake": "Violet",
+    "horse": "Rouge",
+    "sheep": "Bleu ciel",
+    "monkey": "Jaune",
+    "rooster": "Blanc",
+    "dog": "Marron",
+    "pig": "Citron vert"
+  },
+  "overall": {
+    "excellent": "Cette année sera exceptionnelle à tous points de vue ! Avancez avec confiance et relevez de nouveaux défis.",
+    "good": "Une année favorable vous attend. Continuez à travailler régulièrement et de bons résultats suivront.",
+    "average": "Une année stable et sereine. Restez fidèle aux fondamentaux et de bonnes choses viendront.",
+    "below": "Il y aura peut-être des défis, mais avec sagesse et patience, vous pourrez tous les surmonter."
+  },
+  "fortune_msg": {
+    "wealth": {
+      "great": "Une vague de fortune financière arrive ! Les investissements et entreprises seront bénis.",
+      "good": "Un revenu stable afflue vers vous. Excellent moment pour épargner et construire votre patrimoine.",
+      "normal": "Les finances restent stables sans changements majeurs. Maintenez votre cap actuel.",
+      "caution": "Des dépenses imprévues pourraient survenir. Gardez un fonds d'urgence prêt.",
+      "bad": "Soyez prudent avec les finances. Faites une pause sur les investissements risqués."
+    },
+    "health": {
+      "great": "Santé éclatante et énergie sans limites ! Moment parfait pour commencer une nouvelle routine sportive.",
+      "good": "Votre santé reste globalement solide. Maintenez vos bonnes habitudes.",
+      "normal": "La santé est gérable si vous n'en faites pas trop. Maintenez les soins de base.",
+      "caution": "Attention au surmenage et au stress. Privilégiez le repos et la détente.",
+      "bad": "La santé nécessite de l'attention ! Planifiez des bilans réguliers et écoutez votre corps."
+    },
+    "love": {
+      "great": "Une rencontre destinée vous attend ! L'amour s'épanouira magnifiquement dans votre vie.",
+      "good": "Une romance chaleureuse et stable se poursuit. De petits moments de bonheur remplissent vos journées.",
+      "normal": "La vie amoureuse reste calme et paisible. Laissez les choses se développer naturellement.",
+      "caution": "Des malentendus pourraient surgir. La communication ouverte et honnête est essentielle.",
+      "bad": "Des défis amoureux pourraient vous mettre à l'épreuve. Patience et compréhension sont nécessaires."
+    },
+    "career": {
+      "great": "Des opportunités d'avancement incroyables arrivent ! Promotions et nouveaux postes vous attendent.",
+      "good": "Votre travail acharné porte ses fruits. La reconnaissance de vos supérieurs est probable.",
+      "normal": "Une année stable au travail. Concentrez-vous sur le développement de vos compétences.",
+      "caution": "Soignez vos relations professionnelles. Évitez les conflits inutiles avec vos collègues.",
+      "bad": "Des défis professionnels sont attendus. Restez patient et résilient face aux difficultés."
+    }
+  },
+  "share": {
+    "title": "Partagez votre oracle",
+    "twitterText": "Je viens de tirer mon oracle du Nouvel An Lunaire 2026 ! {{zodiac}} Découvrez le vôtre !",
+    "copyText": "Copier le lien",
+    "copySuccess": "Lien copié !"
+  },
+  "footer": {
+    "moreApps": "Découvrir plus d'apps"
+  }
+}

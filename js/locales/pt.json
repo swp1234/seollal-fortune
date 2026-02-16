@@ -1,0 +1,125 @@
+{
+  "app": {
+    "title": "Fortuna do Ano Novo Lunar",
+    "loading": "Preparando sua fortuna...",
+    "skipLink": "Ir para o conteúdo principal"
+  },
+  "meta": {
+    "description": "Fortuna do Ano Novo Lunar - Descubra sua fortuna de 2026 pelo seu signo do zodíaco chinês!",
+    "keywords": "fortuna ano novo lunar, zodíaco chinês, horóscopo 2026, adivinhação",
+    "og_title": "Fortuna do Ano Novo Lunar | Zodíaco 2026",
+    "og_description": "Descubra sua fortuna de 2026 pelo zodíaco chinês. Riqueza, Saúde, Amor e Carreira!"
+  },
+  "intro": {
+    "title": "Fortuna do Ano Novo Lunar",
+    "subtitle": "Fortuna do Ano do Cavalo 2026",
+    "description": "Selecione seu ano de nascimento e descubra sua fortuna para o novo ano! Retire quatro cartas para revelar seu destino em Riqueza, Saúde, Amor e Carreira.",
+    "selectYear": "Selecione seu ano de nascimento"
+  },
+  "button": {
+    "start": "Revelar minha fortuna!",
+    "back": "Recomeçar",
+    "retry": "Tentar novamente",
+    "revealAll": "Revelar tudo",
+    "share_download": "Salvar imagem",
+    "share_twitter": "X (Twitter)",
+    "share_facebook": "Facebook",
+    "share_copy": "Copiar link"
+  },
+  "drawing": {
+    "title": "Retire suas cartas",
+    "instruction": "Toque em cada carta para revelar sua fortuna"
+  },
+  "fortune": {
+    "wealth": "Riqueza",
+    "health": "Saúde",
+    "love": "Amor",
+    "career": "Carreira"
+  },
+  "level": {
+    "great": "Excelente",
+    "good": "Boa",
+    "normal": "Normal",
+    "caution": "Atenção",
+    "bad": "Ruim"
+  },
+  "zodiac": {
+    "rat": "Rato",
+    "ox": "Boi",
+    "tiger": "Tigre",
+    "rabbit": "Coelho",
+    "dragon": "Dragão",
+    "snake": "Serpente",
+    "horse": "Cavalo",
+    "sheep": "Ovelha",
+    "monkey": "Macaco",
+    "rooster": "Galo",
+    "dog": "Cão",
+    "pig": "Porco"
+  },
+  "result": {
+    "title": "Sua Fortuna",
+    "luckyColor": "Cor da sorte",
+    "luckyNumber": "Números da sorte",
+    "compatible": "Signos compatíveis"
+  },
+  "color": {
+    "rat": "Azul",
+    "ox": "Verde",
+    "tiger": "Laranja",
+    "rabbit": "Rosa",
+    "dragon": "Dourado",
+    "snake": "Roxo",
+    "horse": "Vermelho",
+    "sheep": "Azul celeste",
+    "monkey": "Amarelo",
+    "rooster": "Branco",
+    "dog": "Marrom",
+    "pig": "Lima"
+  },
+  "overall": {
+    "excellent": "Este ano será excepcional em todos os aspectos! Avance com confiança e abrace novos desafios.",
+    "good": "Um ano favorável espera por você. Continue trabalhando com constância e bons resultados virão.",
+    "average": "Um ano estável e tranquilo. Mantenha os pés no chão e coisas boas virão.",
+    "below": "Pode haver desafios, mas com sabedoria e paciência você pode superar todos eles."
+  },
+  "fortune_msg": {
+    "wealth": {
+      "great": "Uma onda de fortuna financeira está a caminho! Investimentos e empreendimentos serão abençoados.",
+      "good": "Renda estável flui em sua direção. Excelente momento para poupar e construir riqueza.",
+      "normal": "Finanças permanecem estáveis sem grandes mudanças. Mantenha seu curso atual.",
+      "caution": "Despesas inesperadas podem surgir. Mantenha uma reserva de emergência pronta.",
+      "bad": "Cautela com as finanças. Dê uma pausa nos investimentos arriscados."
+    },
+    "health": {
+      "great": "Saúde vibrante e energia ilimitada! Momento perfeito para iniciar uma nova rotina de exercícios.",
+      "good": "Sua saúde permanece forte no geral. Mantenha seus bons hábitos.",
+      "normal": "Saúde é administrável se não exagerar. Cuide do básico.",
+      "caution": "Cuidado com excesso de trabalho e estresse. Priorize o descanso e relaxamento.",
+      "bad": "Saúde precisa de atenção! Agende check-ups regulares e ouça os sinais do seu corpo."
+    },
+    "love": {
+      "great": "Um encontro destinado te espera! O amor florescerá lindamente em sua vida.",
+      "good": "Romance acolhedor e estável continua. Pequenos momentos de felicidade preenchem seus dias.",
+      "normal": "Vida amorosa permanece calma e em paz. Deixe as coisas acontecerem naturalmente.",
+      "caution": "Mal-entendidos podem surgir. Comunicação aberta e honesta é essencial.",
+      "bad": "Desafios românticos podem testá-lo. Paciência e compreensão são necessárias agora."
+    },
+    "career": {
+      "great": "Oportunidades incríveis de avanço estão chegando! Promoções e novas posições te esperam.",
+      "good": "Seu trabalho árduo compensa. Reconhecimento dos superiores é provável.",
+      "normal": "Um ano estável no trabalho. Foque em desenvolver habilidades.",
+      "caution": "Cuide das relações no trabalho. Evite conflitos desnecessários com colegas.",
+      "bad": "Desafios no trabalho são esperados. Mantenha a paciência e resiliência."
+    }
+  },
+  "share": {
+    "title": "Compartilhe sua fortuna",
+    "twitterText": "Acabei de revelar minha fortuna do Ano Novo Lunar 2026! {{zodiac}} Descubra a sua também!",
+    "copyText": "Copiar link",
+    "copySuccess": "Link copiado!"
+  },
+  "footer": {
+    "moreApps": "Explorar mais apps"
+  }
+}

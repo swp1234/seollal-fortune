@@ -1,0 +1,125 @@
+{
+  "app": {
+    "title": "Lunar New Year Fortune",
+    "loading": "Preparing your fortune...",
+    "skipLink": "Skip to main content"
+  },
+  "meta": {
+    "description": "Lunar New Year Fortune - Discover your 2026 fortune based on your Chinese zodiac sign!",
+    "keywords": "lunar new year fortune, chinese zodiac, 2026 horoscope, fortune telling, zodiac compatibility",
+    "og_title": "Lunar New Year Fortune | 2026 Zodiac Reading",
+    "og_description": "Discover your 2026 fortune based on your Chinese zodiac. Get readings for Wealth, Health, Love, and Career!"
+  },
+  "intro": {
+    "title": "Lunar New Year Fortune",
+    "subtitle": "2026 Year of the Horse",
+    "description": "Select your birth year and discover your fortune for the new year! Draw four cards to reveal your destiny in Wealth, Health, Love, and Career.",
+    "selectYear": "Select your birth year"
+  },
+  "button": {
+    "start": "Draw My Fortune!",
+    "back": "Start Over",
+    "retry": "Try Again",
+    "revealAll": "Reveal All",
+    "share_download": "Save Image",
+    "share_twitter": "X (Twitter)",
+    "share_facebook": "Facebook",
+    "share_copy": "Copy Link"
+  },
+  "drawing": {
+    "title": "Draw Your Cards",
+    "instruction": "Tap each card to reveal your fortune"
+  },
+  "fortune": {
+    "wealth": "Wealth",
+    "health": "Health",
+    "love": "Love",
+    "career": "Career"
+  },
+  "level": {
+    "great": "Excellent",
+    "good": "Good",
+    "normal": "Fair",
+    "caution": "Caution",
+    "bad": "Poor"
+  },
+  "zodiac": {
+    "rat": "Rat",
+    "ox": "Ox",
+    "tiger": "Tiger",
+    "rabbit": "Rabbit",
+    "dragon": "Dragon",
+    "snake": "Snake",
+    "horse": "Horse",
+    "sheep": "Sheep",
+    "monkey": "Monkey",
+    "rooster": "Rooster",
+    "dog": "Dog",
+    "pig": "Pig"
+  },
+  "result": {
+    "title": "Your Fortune",
+    "luckyColor": "Lucky Color",
+    "luckyNumber": "Lucky Numbers",
+    "compatible": "Compatible Signs"
+  },
+  "color": {
+    "rat": "Blue",
+    "ox": "Green",
+    "tiger": "Orange",
+    "rabbit": "Pink",
+    "dragon": "Gold",
+    "snake": "Purple",
+    "horse": "Red",
+    "sheep": "Sky Blue",
+    "monkey": "Yellow",
+    "rooster": "White",
+    "dog": "Brown",
+    "pig": "Lime"
+  },
+  "overall": {
+    "excellent": "This year will be exceptional in every way! Move forward with confidence and embrace new challenges.",
+    "good": "A favorable year awaits you. Keep working steadily and good results will follow.",
+    "average": "A stable and steady year. Stay true to the basics and good things will come your way.",
+    "below": "There may be challenges ahead, but with wisdom and patience, you can overcome them all."
+  },
+  "fortune_msg": {
+    "wealth": {
+      "great": "A surge of financial fortune is heading your way! Investments and ventures will be blessed with luck.",
+      "good": "Steady income flows your way. This is an excellent time for saving and building wealth.",
+      "normal": "Finances remain stable without major changes. Maintain your current course.",
+      "caution": "Unexpected expenses may arise. Keep an emergency fund ready and avoid impulsive purchases.",
+      "bad": "Be cautious with finances. Take a break from risky investments and focus on preserving what you have."
+    },
+    "health": {
+      "great": "Vibrant health and boundless energy! A perfect time to start a new fitness routine.",
+      "good": "Your health remains strong overall. Maintain your good habits.",
+      "normal": "Health is manageable if you don't overdo it. Keep up with basic self-care.",
+      "caution": "Watch out for overwork and stress. Prioritize rest and relaxation.",
+      "bad": "Health needs attention! Schedule regular check-ups and listen to your body's signals."
+    },
+    "love": {
+      "great": "A destined encounter awaits! Love will bloom beautifully in your life.",
+      "good": "Warm and stable romance continues. Small moments of happiness fill your days.",
+      "normal": "Love life remains calm and peaceful. Let things unfold naturally.",
+      "caution": "Misunderstandings may arise. Open and honest communication is key.",
+      "bad": "Romantic challenges may test you. Patience and understanding are needed now."
+    },
+    "career": {
+      "great": "Incredible opportunities for advancement are coming! Promotions and new positions await.",
+      "good": "Your hard work pays off. Recognition from superiors is likely.",
+      "normal": "A stable year at work. Focus on building skills rather than seeking big changes.",
+      "caution": "Mind your workplace relationships. Avoid unnecessary conflicts with colleagues.",
+      "bad": "Workplace challenges are expected. Stay patient and resilient through difficulties."
+    }
+  },
+  "share": {
+    "title": "Share Your Fortune",
+    "twitterText": "I just drew my 2026 Lunar New Year fortune! {{zodiac}} Check yours too!",
+    "copyText": "Copy Link",
+    "copySuccess": "Link copied to clipboard!"
+  },
+  "footer": {
+    "moreApps": "Explore More Apps"
+  }
+}

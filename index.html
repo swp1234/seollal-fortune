@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>설날 운세 뽑기 | Lunar New Year Fortune</title>
+<meta name="description" content="설날 운세 뽑기 - 12간지 띠별 2026년 신년 운세를 확인하세요. 재물운, 건강운, 연애운, 직장운을 무료로 뽑아보세요!">
+<meta name="keywords" content="설날 운세,신년 운세,2026 운세,띠별 운세,12간지,새해 운세,fortune telling,lunar new year">
+<link rel="canonical" href="https://dopabrain.com/seollal-fortune/">
+
+<!-- hreflang -->
+<link rel="alternate" hreflang="ko" href="https://dopabrain.com/seollal-fortune/?lang=ko">
+<link rel="alternate" hreflang="en" href="https://dopabrain.com/seollal-fortune/?lang=en">
+<link rel="alternate" hreflang="ja" href="https://dopabrain.com/seollal-fortune/?lang=ja">
+<link rel="alternate" hreflang="zh" href="https://dopabrain.com/seollal-fortune/?lang=zh">
+<link rel="alternate" hreflang="es" href="https://dopabrain.com/seollal-fortune/?lang=es">
+<link rel="alternate" hreflang="pt" href="https://dopabrain.com/seollal-fortune/?lang=pt">
+<link rel="alternate" hreflang="id" href="https://dopabrain.com/seollal-fortune/?lang=id">
+<link rel="alternate" hreflang="tr" href="https://dopabrain.com/seollal-fortune/?lang=tr">
+<link rel="alternate" hreflang="de" href="https://dopabrain.com/seollal-fortune/?lang=de">
+<link rel="alternate" hreflang="fr" href="https://dopabrain.com/seollal-fortune/?lang=fr">
+<link rel="alternate" hreflang="hi" href="https://dopabrain.com/seollal-fortune/?lang=hi">
+<link rel="alternate" hreflang="ru" href="https://dopabrain.com/seollal-fortune/?lang=ru">
+<link rel="alternate" hreflang="x-default" href="https://dopabrain.com/seollal-fortune/">
+
+<!-- OG / Twitter -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="설날 운세 뽑기 | Lunar New Year Fortune">
+<meta property="og:description" content="12간지 띠별 2026년 신년 운세를 확인하세요. 재물운, 건강운, 연애운, 직장운을 무료로 뽑아보세요!">
+<meta property="og:url" content="https://dopabrain.com/seollal-fortune/">
+<meta property="og:image" content="https://dopabrain.com/seollal-fortune/icon-512.svg">
+<meta property="og:site_name" content="DopaBrain">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="설날 운세 뽑기 | Lunar New Year Fortune">
+<meta name="twitter:description" content="12간지 띠별 2026년 신년 운세를 확인하세요!">
+<meta name="twitter:image" content="https://dopabrain.com/seollal-fortune/icon-512.svg">
+
+<!-- PWA -->
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#dc2626">
+<link rel="icon" href="icon-192.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-192.svg">
+
+<!-- JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "설날 운세 뽑기",
+  "description": "12간지 띠별 신년 운세를 확인하세요. 재물운, 건강운, 연애운, 직장운을 무료로 뽑아보세요!",
+  "url": "https://dopabrain.com/seollal-fortune/",
+  "applicationCategory": "EntertainmentApplication",
+  "operatingSystem": "Web",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "DopaBrain",
+    "url": "https://dopabrain.com"
+  }
+}
+</script>
+
+<!-- GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J8GSWM40TV"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-J8GSWM40TV');
+</script>
+
+<!-- AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3600813755953882" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<!-- Skip link -->
+<a href="#main-content" class="skip-link" data-i18n="app.skipLink">본문 바로가기</a>
+
+<!-- App loader -->
+<div class="app-loader" id="app-loader">
+  <div class="loader-spinner"></div>
+  <p data-i18n="app.loading">로딩 중...</p>
+</div>
+
+<!-- Language selector -->
+<div class="lang-bar">
+  <select id="lang-select" aria-label="Language">
+    <option value="ko">한국어</option>
+    <option value="en">English</option>
+    <option value="ja">日本語</option>
+    <option value="zh">中文</option>
+    <option value="es">Español</option>
+    <option value="pt">Português</option>
+    <option value="id">Indonesia</option>
+    <option value="tr">Türkçe</option>
+    <option value="de">Deutsch</option>
+    <option value="fr">Français</option>
+    <option value="hi">हिन्दी</option>
+    <option value="ru">Русский</option>
+  </select>
+  <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme">
+    <svg class="icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+    <svg class="icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3a7 7 0 0 0 9.79 9.79z"/></svg>
+  </button>
+</div>
+
+<!-- AdSense top banner -->
+<div class="ad-banner ad-top">
+  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3600813755953882" data-ad-slot="auto" data-ad-format="auto" data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+</div>
+
+<main id="main-content">
+  <!-- Screen 1: Intro -->
+  <section id="screen-intro" class="screen active">
+    <div class="container">
+      <div class="intro-decoration">
+        <div class="lantern lantern-left">
+          <svg width="60" height="80" viewBox="0 0 60 80"><ellipse cx="30" cy="40" rx="22" ry="28" fill="#dc2626" opacity="0.9"/><rect x="24" y="8" width="12" height="10" rx="2" fill="#fbbf24"/><line x1="30" y1="0" x2="30" y2="8" stroke="#fbbf24" stroke-width="2"/><rect x="20" y="65" width="20" height="4" rx="2" fill="#fbbf24"/><line x1="24" y1="69" x2="24" y2="80" stroke="#dc2626" stroke-width="1.5"/><line x1="30" y1="69" x2="30" y2="80" stroke="#dc2626" stroke-width="1.5"/><line x1="36" y1="69" x2="36" y2="80" stroke="#dc2626" stroke-width="1.5"/></svg>
+        </div>
+        <div class="lantern lantern-right">
+          <svg width="60" height="80" viewBox="0 0 60 80"><ellipse cx="30" cy="40" rx="22" ry="28" fill="#dc2626" opacity="0.9"/><rect x="24" y="8" width="12" height="10" rx="2" fill="#fbbf24"/><line x1="30" y1="0" x2="30" y2="8" stroke="#fbbf24" stroke-width="2"/><rect x="20" y="65" width="20" height="4" rx="2" fill="#fbbf24"/><line x1="24" y1="69" x2="24" y2="80" stroke="#dc2626" stroke-width="1.5"/><line x1="30" y1="69" x2="30" y2="80" stroke="#dc2626" stroke-width="1.5"/><line x1="36" y1="69" x2="36" y2="80" stroke="#dc2626" stroke-width="1.5"/></svg>
+        </div>
+      </div>
+      <h1 class="intro-title" data-i18n="intro.title">설날 운세 뽑기</h1>
+      <p class="intro-subtitle" data-i18n="intro.subtitle">2026년 병오년 신년 운세</p>
+      <p class="intro-desc" data-i18n="intro.description">태어난 해를 선택하고 올해의 운세를 확인해 보세요! 재물운, 건강운, 연애운, 직장운을 뽑아드립니다.</p>
+
+      <div class="year-selector-wrap">
+        <label for="birth-year" data-i18n="intro.selectYear">태어난 해를 선택하세요</label>
+        <select id="birth-year" class="year-select"></select>
+        <p id="zodiac-display" class="zodiac-display"></p>
+      </div>
+
+      <button id="btn-start" class="btn btn-primary btn-lg" data-i18n="button.start">운세 뽑기 시작!</button>
+    </div>
+  </section>
+
+  <!-- Screen 2: Drawing -->
+  <section id="screen-drawing" class="screen">
+    <div class="container">
+      <h2 class="drawing-title" data-i18n="drawing.title">카드를 뽑아보세요</h2>
+      <p class="drawing-subtitle" id="drawing-zodiac-info"></p>
+      <div class="cards-grid" id="fortune-cards">
+        <!-- Cards generated by JS -->
+      </div>
+      <p class="drawing-instruction" data-i18n="drawing.instruction">카드를 하나씩 터치하여 운세를 확인하세요</p>
+      <button id="btn-reveal-all" class="btn btn-secondary" data-i18n="button.revealAll" style="display:none;">모두 공개</button>
+    </div>
+  </section>
+
+  <!-- Screen 3: Result -->
+  <section id="screen-result" class="screen">
+    <div class="container">
+      <div class="result-header">
+        <h2 class="result-title" data-i18n="result.title">운세 결과</h2>
+        <p id="result-zodiac" class="result-zodiac"></p>
+        <p id="result-overall" class="result-overall"></p>
+      </div>
+
+      <div class="result-cards" id="result-cards">
+        <!-- Result cards generated by JS -->
+      </div>
+
+      <div class="result-extras glass-card">
+        <div class="extra-item">
+          <span class="extra-label" data-i18n="result.luckyColor">행운의 색</span>
+          <span id="lucky-color" class="extra-value"></span>
+        </div>
+        <div class="extra-item">
+          <span class="extra-label" data-i18n="result.luckyNumber">행운의 숫자</span>
+          <span id="lucky-number" class="extra-value"></span>
+        </div>
+        <div class="extra-item">
+          <span class="extra-label" data-i18n="result.compatible">궁합 띠</span>
+          <span id="compatible-zodiac" class="extra-value"></span>
+        </div>
+      </div>
+
+      <div class="share-section">
+        <h3 data-i18n="share.title">결과 공유하기</h3>
+        <div class="share-buttons">
+          <button id="btn-share-download" class="btn btn-share" data-i18n="button.share_download">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            이미지 저장
+          </button>
+          <button id="btn-share-twitter" class="btn btn-share" data-i18n="button.share_twitter">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            X (Twitter)
+          </button>
+          <button id="btn-share-facebook" class="btn btn-share" data-i18n="button.share_facebook">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+            Facebook
+          </button>
+          <button id="btn-share-copy" class="btn btn-share" data-i18n="button.share_copy">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+            링크 복사
+          </button>
+        </div>
+      </div>
+
+      <div class="result-actions">
+        <button id="btn-retry" class="btn btn-primary" data-i18n="button.retry">다시 뽑기</button>
+        <button id="btn-back" class="btn btn-secondary" data-i18n="button.back">처음으로</button>
+      </div>
+    </div>
+  </section>
+</main>
+
+<!-- Footer -->
+<footer class="app-footer">
+  <p>&copy; 2026 <a href="https://dopabrain.com" target="_blank" rel="noopener">DopaBrain</a></p>
+  <a href="https://dopabrain.com" class="portal-link" data-i18n="footer.moreApps">더 많은 앱 보기</a>
+</footer>
+
+<!-- AdSense bottom banner -->
+<div class="ad-banner ad-bottom">
+  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3600813755953882" data-ad-slot="auto" data-ad-format="auto" data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+</div>
+
+<!-- Scripts -->
+<script src="js/i18n.js"></script>
+<script src="js/fortune-data.js"></script>
+<script src="js/app.js"></script>
+<script src="/portal/js/cross-promo.js" defer></script>
+<script src="/portal/js/pwa-install.js" defer></script>
+</body>
+</html>
