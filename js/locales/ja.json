@@ -121,5 +121,12 @@
   },
   "footer": {
     "moreApps": "もっとアプリを見る"
+  },
+  "related": {
+    "title": "もっと楽しむ",
+    "fortuneCookie": "フォーチュンクッキー",
+    "dailyTarot": "デイリータロット",
+    "luckMeter": "運勢メーター",
+    "numerology": "数秘術"
   }
 }

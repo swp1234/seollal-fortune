@@ -121,5 +121,12 @@
   },
   "footer": {
     "moreApps": "Explore More Apps"
+  },
+  "related": {
+    "title": "More to Explore",
+    "fortuneCookie": "Fortune Cookie",
+    "dailyTarot": "Daily Tarot",
+    "luckMeter": "Luck Meter",
+    "numerology": "Numerology"
   }
 }

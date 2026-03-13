@@ -121,5 +121,12 @@
   },
   "footer": {
     "moreApps": "और ऐप्स देखें"
+  },
+  "related": {
+    "title": "और खोजें",
+    "fortuneCookie": "फॉर्च्यून कुकी",
+    "dailyTarot": "दैनिक टैरो",
+    "luckMeter": "भाग्य मीटर",
+    "numerology": "अंकशास्त्र"
   }
 }

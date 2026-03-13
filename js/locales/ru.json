@@ -121,5 +121,12 @@
   },
   "footer": {
     "moreApps": "Больше приложений"
+  },
+  "related": {
+    "title": "Ещё интересное",
+    "fortuneCookie": "Печенье с предсказанием",
+    "dailyTarot": "Таро дня",
+    "luckMeter": "Измеритель удачи",
+    "numerology": "Нумерология"
   }
 }

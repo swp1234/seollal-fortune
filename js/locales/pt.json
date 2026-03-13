@@ -121,5 +121,12 @@
   },
   "footer": {
     "moreApps": "Explorar mais apps"
+  },
+  "related": {
+    "title": "Explore mais",
+    "fortuneCookie": "Biscoito da sorte",
+    "dailyTarot": "Tarô diário",
+    "luckMeter": "Medidor de sorte",
+    "numerology": "Numerologia"
   }
 }

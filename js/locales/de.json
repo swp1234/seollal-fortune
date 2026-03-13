@@ -121,5 +121,12 @@
   },
   "footer": {
     "moreApps": "Mehr Apps entdecken"
+  },
+  "related": {
+    "title": "Mehr entdecken",
+    "fortuneCookie": "Glückskeks",
+    "dailyTarot": "Tages-Tarot",
+    "luckMeter": "Glücksmesser",
+    "numerology": "Numerologie"
   }
 }

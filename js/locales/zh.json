@@ -121,5 +121,12 @@
   },
   "footer": {
     "moreApps": "探索更多应用"
+  },
+  "related": {
+    "title": "探索更多",
+    "fortuneCookie": "幸运饼干",
+    "dailyTarot": "每日塔罗",
+    "luckMeter": "运气测量",
+    "numerology": "数字命理"
   }
 }

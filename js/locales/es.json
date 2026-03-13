@@ -121,5 +121,12 @@
   },
   "footer": {
     "moreApps": "Explorar más apps"
+  },
+  "related": {
+    "title": "Explora más",
+    "fortuneCookie": "Galleta de la fortuna",
+    "dailyTarot": "Tarot diario",
+    "luckMeter": "Medidor de suerte",
+    "numerology": "Numerología"
   }
 }

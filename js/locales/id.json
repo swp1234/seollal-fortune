@@ -121,5 +121,12 @@
   },
   "footer": {
     "moreApps": "Jelajahi Lebih Banyak Aplikasi"
+  },
+  "related": {
+    "title": "Jelajahi lainnya",
+    "fortuneCookie": "Kue keberuntungan",
+    "dailyTarot": "Tarot harian",
+    "luckMeter": "Pengukur keberuntungan",
+    "numerology": "Numerologi"
   }
 }

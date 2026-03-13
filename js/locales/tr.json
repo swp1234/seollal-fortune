@@ -121,5 +121,12 @@
   },
   "footer": {
     "moreApps": "Daha Fazla Uygulama Keşfet"
+  },
+  "related": {
+    "title": "Daha fazla keşfet",
+    "fortuneCookie": "Şans kurabiyesi",
+    "dailyTarot": "Günlük Tarot",
+    "luckMeter": "Şans ölçer",
+    "numerology": "Numeroloji"
   }
 }
